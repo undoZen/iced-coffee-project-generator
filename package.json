@@ -1,6 +1,6 @@
 {
   "name": "iced-coffee-project-generator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "yo iced-coffee-project",
   "main": "lib/index.js",
   "scripts": {
