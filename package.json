@@ -1,0 +1,32 @@
+{
+  "name": "iced-coffee-project-generator",
+  "version": "0.0.0",
+  "description": "yo iced-coffee-project",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "cult"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undoZen/iced-coffee-project-generator.git"
+  },
+  "keywords": [
+    "css",
+    "style"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/iced-coffee-project-generator/issues"
+  },
+  "homepage": "https://github.com/undoZen/iced-coffee-project-generator",
+  "devDependencies": {
+    "cult": "^1.5.0",
+    "gulp": "^3.8.8",
+    "gulp-iced": "0.0.2",
+    "gulp-load-plugins": "^0.6.0",
+    "gulp-util": "^3.0.1",
+    "iced-coffee-script": "^1.7.1-f",
+    "iced-runtime": "^1.0.1"
+  }
+}
